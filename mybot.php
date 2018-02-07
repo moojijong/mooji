@@ -21,11 +21,11 @@ if (!is_null($events['events'])) {
 					'text' => 'สวัสดีคนสวย'
 				];
 			}
-			else if($text == 'test'){
+			else if($text == 'ชื่ออะไรหรอ'){
 				// Build message to reply back
 				$messages = [
 					'type' => 'text',
-					'text' => 'ทดสอบๆ'
+					'text' => 'สวยๆอย่างฉันต้องชื่อ Mooji จ้า'
 				];
 			}
 		
